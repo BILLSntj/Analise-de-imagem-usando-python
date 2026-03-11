@@ -1,0 +1,5 @@
+dataset_images/
+__pycache__/
+venv/
+*.pptx
+*.pt
